@@ -10,4 +10,4 @@
 | 其他需求 | 发起[Issue](https://github.com/Jiansen/Coder/issues)讨论，解锁新玩法 |
 
 ### 微信群二维码（长期定时更新）
-![WeChat Group: LeetCode](https://github.com/Jiansen/Coder/blob/master/WeChat/WeChatLeetCode.jpeg)
+![WeChat Group: LeetCode](https://github.com/Jiansen/Coder/blob/master/WeChat/WeChatLeetCode.jpg)
