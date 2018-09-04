@@ -11,3 +11,21 @@
 
 ### 微信群二维码（长期定时更新）
 ![WeChat Group: LeetCode](https://github.com/Jiansen/Coder/blob/master/WeChat/WeChatLeetCode.jpg)
+
+
+### 英国求职长期合作伙伴: [职达 Ziida](http://www.ziida.uk/)
+
+#### [职达 Ziida](http://www.ziida.uk/): 最懂中国留学生的职场合伙人 ####
+
+主攻留学生目标求职行业
+
+行业集训+实习直推+1v1求职指导，专注以下领域：
+
+- Investment Banking
+- Big Four / MBB
+- SDE / Quant
+- Data Analytics
+
+[List of UK Work VISA Sponsors](http://www.ziida.uk/uk_visa_sponsorship)
+
+![WeChat Ziida](https://github.com/Jiansen/Coder/blob/master/WeChat/WeChatZiida.jpg)
