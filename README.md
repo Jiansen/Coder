@@ -13,9 +13,9 @@
 ![WeChat Group: LeetCode](https://github.com/Jiansen/Coder/blob/master/WeChat/WeChatLeetCode.jpg)
 
 
-### 英国求职长期合作伙伴: [职达 Ziida](http://www.ziida.uk/)
+### [英国求职长期合作伙伴: 职达 Ziida](http://www.ziida.uk/)
 
-#### [职达 Ziida](http://www.ziida.uk/): 最懂中国留学生的职场合伙人 ####
+#### [职达 Ziida - 最懂中国留学生的职场合伙人](http://www.ziida.uk/) ####
 
 主攻留学生目标求职行业
 
@@ -26,6 +26,6 @@
 - SDE / Quant
 - Data Analytics
 
-[List of UK Work VISA Sponsors](http://www.ziida.uk/uk_visa_sponsorship)
+[英国工作签证Sponsor速查工具](http://www.ziida.uk/uk_visa_sponsorship)
 
 ![WeChat Ziida](https://github.com/Jiansen/Coder/blob/master/WeChat/WeChatZiida.jpg)
